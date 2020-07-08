@@ -1,0 +1,1 @@
+use git init to initialize a git repository in the current dir.
