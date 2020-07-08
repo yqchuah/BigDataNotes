@@ -1,2 +1,3 @@
 use git init to initialize a git repository in the current dir.
-It saves differences rather than the whole files. 
+It saves differences rather than the whole files.
+Hey! This is Zhao 
